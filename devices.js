@@ -7922,7 +7922,7 @@ const devices = [
         whiteLabel: [{vendor: 'Sunricher', model: 'SR-ZG9001K8-DIM'}],
     },
     {
-        zigbeeModel: ['ZG2833K4_EU06', 'ROB_200-008'],
+        zigbeeModel: ['ZG2833K4_EU06', 'ROB_200-008-0'],
         model: 'ROB_200-008-0',
         vendor: 'ROBB',
         description: 'Zigbee 4 button wall switch',
